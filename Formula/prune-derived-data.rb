@@ -1,8 +1,8 @@
 class PruneDerivedData < Formula
   desc "List and prune stale Xcode DerivedData directories"
   homepage "https://github.com/hannesoid/devtools"
-  url "https://github.com/hannesoid/devtools/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "45778c3c27b192d24863f005e4ac0a1e2e3bd77afb7ed785efe893beb37e3411"
+  url "https://github.com/hannesoid/devtools/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "1a6618d25296b58c1345f542ba32983aebdc75c87eb20e37ef871a1a0f9902ad"
   license "MIT"
 
   def install
